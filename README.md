@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 - 🔍 Passionate about cybersecurity, bug hunting, and ethical hacking.
-- 🎯 Interested in web security,and API security.
+- 🎯 Interested in web security and API security.
 - 🛠️ Skilled in **BurpSuite**, **Nuclei**, **Subfinder**, **Httpx**, and other security tools.
 - 📚 Currently working on web security & API security.
 

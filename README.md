@@ -30,6 +30,6 @@
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/saellopld)
-- 🐞 [HackerOne](https://hackerone.com/kenzoaja)
+- 🐞 [HackerOne](https://hackerone.com/saello)
 - 🌐 [My Website](http://saello.my.id)
 
